@@ -1,7 +1,8 @@
 # Mantra Counter Support
 
-English | [中文](#中文)
+English | [中文](#chinese)
 
+<a id="english"></a>
 ## English
 
 Official support and feedback repository for **Mantra Counter**.
@@ -41,6 +42,7 @@ See the privacy policy: **[PRIVACY.md](PRIVACY.md)**
 
 ---
 
+<a id="chinese"></a>
 ## 中文
 
 **Mantra Counter（心灵法门念经助手）** 官方支持与反馈仓库。

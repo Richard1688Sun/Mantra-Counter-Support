@@ -1,7 +1,8 @@
 # Privacy Policy
 
-English | [中文](#中文)
+English | [中文](#chinese)
 
+<a id="english"></a>
 ## English
 
 **Last Updated:** March 2026
@@ -28,6 +29,7 @@ If you have questions about this policy, please open an issue in the support rep
 
 ---
 
+<a id="chinese"></a>
 ## 中文
 
 **最后更新日期：** 2026年3月
