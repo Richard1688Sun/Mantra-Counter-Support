@@ -1,45 +1,53 @@
-# Privacy Policy for Mantra Counter
+# Privacy Policy
+
+English | [中文](#中文)
+
+## English
+
 **Last Updated:** March 2026
 
-Thank you for choosing to be part of our community by using the **Mantra Counter** ("App"). We are committed to protecting your personal information and your right to privacy.
+Thank you for using **Mantra Counter** (the “App”). We respect your privacy and are committed to protecting your information.
 
-This Privacy Policy explains what information we collect, how we use it, and what rights you have in relation to it. 
+### 1. Information We Collect
+**We do not collect, store, or share personal information.**
 
-## 1. Information We Collect (None)
-**We do not collect, store, or share any personal information.** 
+The App is designed to work fully offline. Data you enter (including mantra counts, daily homework records, Little House records, recipient goals, and related history) stays on your device.
 
-The Mantra Counter app is designed to function entirely offline. All data you enter into the App—including your daily homework counts, Xiao Fang Zi (Little House) records, custom counters, and any other practice data—is stored locally and securely on your device. 
+### 2. Third-Party Services
+The App does not include third-party analytics, advertising, or tracking services.
 
-## 2. Third-Party Services
-The App does not use any third-party tracking, analytics, or advertising services. Your spiritual practice is private, and we ensure it stays that way. 
+### 3. Data Storage
+All app data is stored locally on your device. We do not upload your data to our servers.
 
-## 3. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. The updated version will be indicated by an updated "Last Updated" date and the updated version will be effective as soon as it is accessible. We encourage you to review this Privacy Policy frequently to be informed of how we are protecting your information.
+### 4. Changes to This Policy
+We may update this policy from time to time. Any updates will be reflected by revising the “Last Updated” date.
 
-## 4. Contact Us
-If you have questions or comments about this policy, you may contact us by opening an issue on our official GitHub support repository:
-[Mantra Counter Support Repository](https://github.com/YourUsername/MantraCounter-Support) *(Replace with your actual GitHub link)*
+### 5. Contact
+If you have questions about this policy, please open an issue in the support repository:
+[Mantra Counter Support Repository](https://github.com/YourUsername/MantraCounter-Support)
 
 ---
 
-# 隐私政策 (心灵法门念经助手)
+## 中文
+
 **最后更新日期：** 2026年3月
 
-感谢您使用 **心灵法门念经助手 (Mantra Counter)**（以下简称“本应用”）。我们非常重视并承诺保护您的个人信息与隐私。
+感谢您使用 **Mantra Counter（心灵法门念经助手）**（以下简称“本应用”）。我们重视您的隐私，并致力于保护您的信息安全。
 
-本隐私政策旨在向您说明我们如何收集、使用和保护您的信息。
+### 1. 我们收集的信息
+**我们不收集、不存储、也不分享任何个人信息。**
 
-## 1. 我们收集的信息（无）
-**本应用不收集、不存储、也不分享您的任何个人信息。**
+本应用可完全离线使用。您输入的数据（包括经文计数、每日功课记录、小房子记录、赠与人目标及相关历史）均仅保存在您的设备本地。
 
-我们的应用设计为完全离线运行。您在应用中记录的所有数据（包括您的每日功课进度、小房子念诵记录、自定义计数器以及所有的修行数据）都已安全地保存在您本人的设备本地。我们无法访问、读取或获取这些数据。
+### 2. 第三方服务
+本应用不包含第三方广告、数据分析或行为追踪服务。
 
-## 2. 第三方服务
-本应用不包含任何第三方的广告、数据追踪或数据分析服务。您的修行记录是您的个人隐私，我们确保其绝对安全且不被打扰。
+### 3. 数据存储
+所有应用数据均本地存储在您的设备中。我们不会将您的数据上传到我们的服务器。
 
-## 3. 隐私政策的更新
-我们可能会适时更新本隐私政策。更新后的版本将通过更新“最后更新日期”来标示，并在发布后立即生效。建议您定期查阅本隐私政策，以了解我们如何保护您的信息。
+### 4. 隐私政策更新
+我们可能会不时更新本政策。更新时将通过修改“最后更新日期”进行说明。
 
-## 4. 联系我们
-如果您对本隐私政策有任何疑问或建议，欢迎通过我们的官方 GitHub 支持页面提交 Issue 与我们联系：
-[念经助手官方支持页面](https://github.com/YourUsername/MantraCounter-Support) *(请替换为您实际的 GitHub 链接)*
+### 5. 联系我们
+如果您对本政策有疑问，请在支持仓库提交 Issue：
+[念经助手支持仓库](https://github.com/YourUsername/MantraCounter-Support)

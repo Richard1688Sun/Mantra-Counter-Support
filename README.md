@@ -1,41 +1,79 @@
-# Mantra Counter Support (心灵法门念经助手 - 支持与反馈)
+# Mantra Counter Support
 
-Welcome to the official support repository for the **Mantra Counter** app, designed specifically for Guan Yin Citta Dharma Door (心灵法门) practitioners. 
+English | [中文](#中文)
 
-欢迎来到 **心灵法门念经助手 (Mantra Counter)** 的官方支持与反馈区。
+## English
+
+Official support and feedback repository for **Mantra Counter**.
+
+### Promotional Text
+Track mantra counts, daily homework, and Little House progress in one place. See missed days, apply deductions to mantra pools, and manage recipient goals with history.
+
+### Description
+Mantra Counter is a structured tracker for mantra recitation, daily homework completion, and Little House progress.
+
+Use it to:
+- Track and edit counts for multiple mantra counters.
+- Set per-mantra homework goals and mark completion by date.
+- View missed homework days and catch up specific dates.
+- Apply rule-based deductions: completing homework deducts homework goals from mantra counts.
+- Convert eligible mantra sets into Little Houses, then allocate or unallocate Little Houses to recipients.
+- Manage recipient progress with names, goals, and optional target dates.
+- Review daily history in the calendar, including recitation totals, homework deductions, Little House deductions, conversions, and allocations.
+
+The app is designed for clear daily accountability with transparent count changes.
+
+### Keywords
+`mantra`, `counter`, `homework`, `daily tracker`, `calendar`, `meditation`, `little house`, `recipient`, `goal`, `progress`
+
+### Bug Reports and Feature Requests
+Please use GitHub Issues for bug reports, feature requests, and questions:
+1. Open the **[Issues](../../issues)** tab.
+2. Click **New Issue**.
+3. Write your feedback in English or Chinese.
+4. Submit the issue.
+
+### Download
+📱 **[Download on the App Store](#)**
+
+### Privacy
+See the privacy policy: **[PRIVACY.md](PRIVACY.md)**
 
 ---
 
-## 🐛 Bug Reports & Feature Requests (提交建议与问题反馈)
+## 中文
 
-We use the GitHub Issues tracker to handle bug reports and feature requests. If you have any suggestions, found a bug, or have a complaint, please open an issue here so we can track it!
+**Mantra Counter（心灵法门念经助手）** 官方支持与反馈仓库。
 
-我们使用 GitHub Issues 来追踪应用的建议与问题。如果您有任何功能建议、发现了 Bug，或者有其他反馈，请在这里开启一个“Issue”，我们将为您跟进处理！
+### 宣传文本
+一款专注念诵与功课管理的工具：记录经文计数、追踪每日功课与小房子进度，提示漏做日期，并按规则从经文总数中扣除。
 
-### How to contact us / 如何联系我们：
-1. Go to the **[Issues](../../issues)** tab at the top of this page. (点击页面上方的 **Issues** 标签)
-2. Click the green **New Issue** button. (点击绿色的 **New Issue** 按钮)
-3. Write your feedback or problem in **English or Chinese**. (您可以使用 **中文或英文** 填写您的建议或问题)
-4. Click **Submit new issue**. (点击 **Submit new issue** 提交)
+### 描述
+Mantra Counter 是一款用于念诵计数、功课完成和小房子进度管理的追踪工具。
 
-### Examples of what you can post (您可以提交哪些内容？):
-* 💡 **Feature Requests (功能建议):** "It would be great if the app could do..." (如果应用能增加...功能就好了)
-* 🐞 **Bug Reports (错误报告):** "The app crashed when I clicked on..." (当我点击...时应用崩溃了)
-* ❓ **Questions (常见问题):** "How do I use the Little House tracker?" (请问如何使用小房子计数功能？)
+你可以用它：
+- 记录并编辑多条经文计数。
+- 为每条经文设置每日功课目标，并按日期标记完成。
+- 查看漏做功课的日期，并补做指定日期。
+- 按规则自动扣除：完成功课时，从经文计数中扣除对应功课数。
+- 将满足条件的经文组合转换为小房子，并可对赠与人进行分配或撤销分配。
+- 管理赠与人进度：姓名、目标数量、目标日期。
+- 在日历中查看每日历史与明细，包括念诵数量、功课扣除、小房子扣除、转换和分配记录。
 
----
+整体设计强调日常追踪的清晰性和计算过程的透明性。
 
-## 📥 Download the App (下载应用)
+### 关键词
+`念经`, `计数器`, `功课`, `打卡`, `日历`, `小房子`, `祈求`, `赠与人`, `进度`, `提醒`, `统计`
 
-*(Replace the link below with your actual iOS App Store link once published)*
+### 问题反馈与功能建议
+请通过 GitHub Issues 提交问题、建议与咨询：
+1. 打开页面上方 **[Issues](../../issues)** 标签。
+2. 点击 **New Issue**。
+3. 使用中文或英文描述问题。
+4. 提交 Issue。
 
-📱 **[Download on the App Store (前往 App Store 下载)](#)** 
+### 下载
+📱 **[前往 App Store 下载](#)**
 
----
-
-## 🔒 Privacy (隐私声明)
-As stated in our privacy policy, **Mantra Counter** is a locally-stored application. Your reciting data and history are kept safely on your device and are never uploaded to any servers.
-
-正如我们的隐私政策所述，**Mantra Counter** 是一款本地应用。您的所有念诵数据和记录均安全地保存在您的设备本地，绝不会上传到任何服务器。
-
-🙏 Thank you for using Mantra Counter! 感恩您使用念经助手，祝您法喜充满！
+### 隐私政策
+请查看：**[PRIVACY.md](PRIVACY.md)**
